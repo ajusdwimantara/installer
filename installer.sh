@@ -4,6 +4,14 @@ cd online-exam-portal
 
 cd frontend
 
+npm outdated
+
+npx npm-check-updates
+
 npm install
+
+cd online-exam-portal
+
+cd frontend
 
 npm run start
