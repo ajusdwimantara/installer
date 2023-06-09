@@ -1,6 +1,6 @@
 # installer
 website installer for cloud computing assignment
 
-USAGE
+## USAGE
 g++ installer.cpp -o installer
 .\installer
